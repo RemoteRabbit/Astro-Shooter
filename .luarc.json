@@ -1,0 +1,11 @@
+{
+    "diagnostics.globals": [
+        "love",
+        "debug",
+        "jit",
+        "bit",
+        "utf8"
+    ],
+    "runtime.version": "LuaJIT",
+    "workspace.checkThirdParty": false
+}
